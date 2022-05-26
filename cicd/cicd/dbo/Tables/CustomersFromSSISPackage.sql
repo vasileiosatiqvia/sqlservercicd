@@ -1,0 +1,28 @@
+﻿CREATE TABLE [dbo].[CustomersFromSSISPackage] (
+    [CustomerKey]          VARCHAR (50) NULL,
+    [GeographyKey]         VARCHAR (50) NULL,
+    [CustomerAlternateKey] VARCHAR (50) NULL,
+    [FirstName]            VARCHAR (50) NULL,
+    [LastName]             VARCHAR (50) NULL,
+    [NameStyle]            VARCHAR (50) NULL,
+    [BirthDate]            VARCHAR (50) NULL,
+    [MaritalStatus]        VARCHAR (50) NULL,
+    [Gender]               VARCHAR (50) NULL,
+    [EmailAddress]         VARCHAR (50) NULL,
+    [YearlyIncome]         VARCHAR (50) NULL,
+    [TotalChildren]        VARCHAR (50) NULL,
+    [NumberChildrenAtHome] VARCHAR (50) NULL,
+    [EnglishEducation]     VARCHAR (50) NULL,
+    [SpanishEducation]     VARCHAR (50) NULL,
+    [FrenchEducation]      VARCHAR (50) NULL,
+    [EnglishOccupation]    VARCHAR (50) NULL,
+    [SpanishOccupation]    VARCHAR (50) NULL,
+    [FrenchOccupation]     VARCHAR (50) NULL,
+    [HouseOwnerFlag]       VARCHAR (50) NULL,
+    [NumberCarsOwned]      VARCHAR (50) NULL,
+    [AddressLine1]         VARCHAR (50) NULL,
+    [Phone]                VARCHAR (50) NULL,
+    [DateFirstPurchase]    VARCHAR (50) NULL,
+    [CommuteDistance]      VARCHAR (50) NULL
+);
+

@@ -1,0 +1,10 @@
+C:\Users\u1109304\OneDrive - IQVIA\Documents\sqlservercicd\cicd\cicd\bin\Debug\cicd.dacpac
+C:\Users\u1109304\OneDrive - IQVIA\Documents\sqlservercicd\cicd\cicd\bin\Debug\cicd.dll
+C:\Users\u1109304\OneDrive - IQVIA\Documents\sqlservercicd\cicd\cicd\bin\Debug\cicd.pdb
+C:\Users\u1109304\OneDrive - IQVIA\Documents\sqlservercicd\cicd\cicd\obj\Debug\cicd.sqlproj.AssemblyReference.cache
+C:\Users\u1109304\OneDrive - IQVIA\Documents\sqlservercicd\cicd\cicd\obj\Debug\Model.xml
+C:\Users\u1109304\OneDrive - IQVIA\Documents\sqlservercicd\cicd\cicd\obj\Debug\refactor.xml
+C:\Users\u1109304\OneDrive - IQVIA\Documents\sqlservercicd\cicd\cicd\obj\Debug\postdeploy.sql
+C:\Users\u1109304\OneDrive - IQVIA\Documents\sqlservercicd\cicd\cicd\obj\Debug\predeploy.sql
+C:\Users\u1109304\OneDrive - IQVIA\Documents\sqlservercicd\cicd\cicd\obj\Debug\cicd.dll
+C:\Users\u1109304\OneDrive - IQVIA\Documents\sqlservercicd\cicd\cicd\obj\Debug\cicd.pdb

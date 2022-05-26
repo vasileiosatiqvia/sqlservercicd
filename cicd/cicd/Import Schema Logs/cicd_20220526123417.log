@@ -1,0 +1,10 @@
+5/26/2022 3:34:17 PM	This log contains information about the import schema operation into project 'cicd' on computer 'GRATH1WLZ25293' by user 'u1109304'.
+5/26/2022 3:34:17 PM	Deserializing model
+5/26/2022 3:34:17 PM	Resolving model
+5/26/2022 3:34:18 PM	Visiting imported model for types
+5/26/2022 3:34:18 PM	Scanning project for duplicate elements
+5/26/2022 3:34:18 PM	Finished duplicate element processing
+5/26/2022 3:34:18 PM	Processing extra files
+5/26/2022 3:34:18 PM	Finished importing Data-tier Application file.
+5/26/2022 3:34:18 PM	A summary of the import was saved to the following location: C:\Users\u1109304\OneDrive - IQVIA\Documents\sqlservercicd\cicd\cicd\Import Schema Logs\cicd_20220526123417.log
+5/26/2022 3:34:18 PM	Click Finish to continue...
